@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">locoo</string>
+    <string name="create_account">create account ?</string>
+    <string name="signinemail">Email</string>
+    <string name="signinbutton">signin</string>
+    <string name="signinpassword">Password</string>
+</resources>
